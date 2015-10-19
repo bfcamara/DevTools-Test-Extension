@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "test",
+  "version": "1.0.0",
+  "name": "test",
+  "publisher": "test",
+  "baseUri": "http://localhost:9000/test",
+  "description": "",
+  "details": {
+    "path": "details.md"
+  }
+}
